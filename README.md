@@ -56,18 +56,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Setup
-
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone https://github.com/fatmahussein/vet_clinic.git
-```
---->
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
